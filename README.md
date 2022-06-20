@@ -5,13 +5,13 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently learning AI-ML
+- 🌱 I’m currently learning NodeJs, DSA
 
-- 👨‍💻 All of my projects are available at #
+- 👨‍💻 For now all of my projects  are available at my PC
 
-- 💬 Ask me about **#**
+- 💬 Ask me about  #
 
-- 📫 How to reach me **#**
+- 📫 How to reach me #
 
 - 📄 More about me #
 
