@@ -1,14 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Subham</h1>
-<h3 align="center">A self-taught learner from Kolkata, India</h3>
+<h3 align="center">A self-taught learner from India👨‍💻</h3>
 
 
-About Me :
+⚠ About Me :
 - 🌱 I’m currently learning AI-ML
 
 - 👨‍💻 All of my projects are available at #
-
-- 📝 I regularly write articles on #
 
 - 💬 Ask me about **#**
 
