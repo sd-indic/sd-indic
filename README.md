@@ -1,4 +1,4 @@
-
+<img alt="sd-indic" width=1000 height=500 src="https://github.com/sd-indic/sd-indic/blob/main/banner.gif">
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India👨‍💻</h3>
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **#**
 
-
+<img alt="sd-indic" width=500 height=400 src="">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
