@@ -1,7 +1,7 @@
-<img align="center" alt="sd-indic"  src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India </h3>
 
+<img align="center" alt="sd-indic"  src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true">
 
  ⚠ About Me :
  
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **#**
 
-<p align="right"><img alt="sd-indic" width=400 height=300 src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/coder.gif?raw=true">
+<p align="left"><img alt="sd-indic" width=400 height=300 src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/coder.gif?raw=true">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -70,5 +70,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sd-indic&show_icons=true&locale=en&layout=compact" alt="sd-indic" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&locale=en" alt="sd-indic" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&locale=en" alt="sd-indic" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
