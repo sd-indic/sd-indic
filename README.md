@@ -1,4 +1,4 @@
-<img align="center" alt="sd-indic"  src="">
+<img align="center" alt="sd-indic"  src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true">
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India </h3>
 
