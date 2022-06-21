@@ -1,7 +1,9 @@
+![MasterHead](https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sid&label=Profile%20views&color=0e75b6&style=flat" alt="im-sid" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/coder.gif?raw=true">
 
-<img align="center" alt="sd-indic"  src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true">
 
  ⚠ About Me :
  
@@ -17,11 +19,11 @@
 
 - ⚡ Fun fact **#**
 
-<p align="left"><img alt="sd-indic" width=400 height=300 src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/coder.gif?raw=true">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/@sid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sid" height="30" width="40" /></a>
+<a href="https://twitter.com/sd_indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sd-indic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sd-indic" height="30" width="40" /></a>
 <a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a>
 <a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="#" height="30" width="40" /></a>
