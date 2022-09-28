@@ -7,17 +7,15 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently learning NodeJs, DSA
+- 🌱 I’m currently Upgrading My Skills
 
 - 👨‍💻 For now all of my projects  are available at my PC
 
-- 💬 Ask me about  #
+- 📫 How to reach me : through social media handles.
 
-- 📫 How to reach me #
+- 📄 More about me : Optimistic, Fun Loving, Ambitious Guy
 
-- 📄 More about me #
-
-- ⚡ Fun fact **#**
+- ⚡ Interests : Playing Carrom, Drawing, Cycling, Listening Music, Gaming, Reading, Watching Movies,... 
 
 
 <h3 align="left">Connect with me:</h3>
