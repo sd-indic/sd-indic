@@ -11,11 +11,12 @@
 
 - 👨‍💻 For now all of my projects  are available at my PC
 
-- 📫 How to reach me : through social media handles.
+- 📫 How to reach me : Through social media handles.
 
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy
 
-- ⚡ Interests : Playing Carrom, Drawing, Cycling, Listening Music, Gaming, Reading, Watching Movies,... 
+- ⚡ Interests : 
+- Playing Carrom, Drawing, Cycling, Listening Music, Gaming, Reading, Watching Movies,... 
 
 
 <h3 align="left">Connect with me:</h3>
