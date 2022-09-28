@@ -16,7 +16,7 @@
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy
 
 - ⚡ Interests : 
-- Playing Carrom, Drawing, Cycling, Listening Music, Gaming, Reading, Watching Movies,... 
+  Playing Carrom, Drawing, Cycling, Listening Music, Gaming, Reading, Watching Movies, ... 
 
 
 <h3 align="left">Connect with me:</h3>
