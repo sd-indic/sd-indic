@@ -48,3 +48,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sd-indic&show_icons=true&locale=en&layout=compact" alt="sd-indic" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&locale=en" alt="sd-indic" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
