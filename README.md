@@ -9,15 +9,12 @@
  
 - 🌱 I’m currently Upgrading My Skills
 
-- 👨‍💻 For now all of my projects  are available at my PC
-
 - 📫 How to reach me : Through social media handles.
 
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy
 
 - ⚡ Hobbies : 
-  Drawing, Cycling, Listening Songs, Reading, Watching Movies, Playing Games. 
-
+  Drawing, Cycling, Listening Songs, Reading, Watching Movies, Playing Games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
