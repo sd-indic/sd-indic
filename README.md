@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true)
-<img align="center" alt="dp" width=" src="https://github.com/sd-indic/sd-indic/blob/main/dp.png">
+<img align="center" alt="dp" width="" src="https://github.com/sd-indic/sd-indic/blob/main/New%20folder/dp.png?raw=true">
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sid&label=Profile%20views&color=0e75b6&style=flat" alt="im-sid" /> </p>
