@@ -10,12 +10,10 @@
  
 - 🌱 I’m currently learning Full Stack Web Dev.
 
-- 📫 How to reach me : subham
-
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy.
 
-- ⚡ Hobbies : 
-  Drawing, Cycling, Listening Songs, Reading, Watching Movies, Playing Games.
+- ⚡ Hobbies & Interests : 
+ Cycling, Listening Songs, Reading, Watching Movies, Playing Games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
