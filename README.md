@@ -8,11 +8,11 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently Upgrading My Skills
+- 🌱 I’m currently learning Full Stack Web Dev.
 
-- 📫 How to reach me : Through social media handles.
+- 📫 How to reach me : subham
 
-- 📄 More about me : Optimistic, Fun Loving, Ambitious Guy
+- 📄 More about me : Optimistic, Fun Loving, Ambitious Guy.
 
 - ⚡ Hobbies : 
   Drawing, Cycling, Listening Songs, Reading, Watching Movies, Playing Games.
