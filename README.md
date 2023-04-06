@@ -8,12 +8,12 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently learning Full Stack Web Dev.
+- 🌱 I’m currently focusing on learning DSA and CP.
 
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy.
 
 - ⚡ Hobbies & Interests : 
- Cycling, Listening Songs, Reading, Watching Movies, Playing Games.
+Fitness, Gadgets, Books, Games etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
