@@ -47,8 +47,6 @@ Fitness, Gadgets, Books, Games etc.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-indic&layout=compact&langs_count=6"/>
 </div>
-	
-	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
