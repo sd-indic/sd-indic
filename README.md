@@ -42,7 +42,13 @@ Fitness, Gadgets, Books, Games etc.
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sd-indic&show_icons=true&locale=en&layout=compact" alt="sd-indic" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&locale=en" alt="sd-indic" /></p>
+<div>
+  <a href="https://github.com/sd-indic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-indic&layout=compact&langs_count=6"/>
+</div>
+	
+	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;">
