@@ -13,7 +13,7 @@
 - 📄 More about me : Optimistic, Fun Loving, Ambitious Guy.
 
 - ⚡ Hobbies & Interests : 
-Fitness, Gadgets, Books, Games etc.
+Fitness, Gadgets, Books, Music, Games etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
