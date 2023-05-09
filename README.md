@@ -45,7 +45,8 @@ Fitness, Gadgets, Books, Music, Games etc.
 <div>
   <a href="https://github.com/sd-indic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sd-indic&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-indic&layout=compact&langs_count=6"/>
+   [![Top Langs](//https://github-readme-stats.vercel.app/api/top-langs/?username=sd-indic&layout=compact&langs_count=6//)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sd-indic&hide_progress=true"/>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sd-indic&" alt="sd-indic" /></p>
 
