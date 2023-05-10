@@ -8,12 +8,8 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently focusing on learning Web Dev.
+- 🌱 I’m currently focusing on learning Web Dev. 
 
-- 📄 More about me : Optimistic, Fun Loving, Ambitious Guy.
-
-- ⚡ Hobbies & Interests : 
-Fitness, Gadgets, Books, Music, Games.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
