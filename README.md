@@ -8,7 +8,7 @@
 
  ⚠ About Me :
  
-- 🌱 I’m currently focusing on learning Web Dev. 
+- 🌱 I’m an Aspiring Engineer. 
 
 
 <h3 align="left">Connect with me:</h3>
