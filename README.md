@@ -8,7 +8,7 @@
 
  ⚠ About Me :
  
-- 🌱 I’m an Aspiring Engineer. 
+- 🌱 I’m a Learner Exporing with Fun 
 
 
 <h3 align="left">Connect with me:</h3>
