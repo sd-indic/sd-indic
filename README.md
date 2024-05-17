@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/sd-indic/sd-indic/blob/main/New%20folder/j.gif?raw=true)
-[![An image of @sdindic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sdindic)](https://holopin.io/@sdindic)
 <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A self-taught learner from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-sid&label=Profile%20views&color=0e75b6&style=flat" alt="im-sid" /> </p>
