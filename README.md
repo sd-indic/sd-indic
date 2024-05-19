@@ -7,10 +7,10 @@
 
  ⚠ About Me :
  
-- 🌱 I’m a Learner Exploring with Fun
-- 😊 CSE Undergrad, Educator, Aspirant
-- ❤️ Music, Books, Games, making new connections and of course Panipuri...
-- 👌 Always a curious learner ready to explore new domains.
+-  I’m a Learner Exploring with Fun
+-  CSE Undergrad, Educator, Aspirant
+-  Music, Books, Games, making new connections and of course Panipuri...
+-  Always a curious learner ready to explore new domains.
 
 
 <h3 align="left">Connect with me:</h3>
