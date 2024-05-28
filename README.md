@@ -9,7 +9,7 @@
  
 -  I’m a Learner Exploring with Fun
 -  CSE Undergrad, Educator, Aspirant
--  Music, Books, Games, making new connections and of course Panipuri...
+-  Music, Books, Games, making new connections
 -  Always a curious learner ready to explore new domains.
 
 
