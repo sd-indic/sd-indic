@@ -7,13 +7,13 @@
         Currently learning to walk in Data Science 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://subham-roan.vercel.app">    
+    <a href="">    
         <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/subhamdas21">
+    <a href="https://www.linkedin.com/in/">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/sd-indic">
+    <a href="https://www.kaggle.com/">
         <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
     </a><br>
       <!--<img src="https://komarev.com/ghpvc/?username=avishek09 &label=Profile%20views&color=0e75b6&style=flat" alt="Avishek'sProfileViews">-->
